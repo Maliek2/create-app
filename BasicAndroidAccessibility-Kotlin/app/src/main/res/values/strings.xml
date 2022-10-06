@@ -15,7 +15,7 @@
 -->
 
 <resources>
-    <string name="app_name">Basic Android Accessibility Codelab</string>
+    <string name="app_name">Basic Android</string>
 
     <string name="fragment_content_labeling">Content Labeling Screen</string>
     <string name="fragment_live_region">Live Region Screen</string>
